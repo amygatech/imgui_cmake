@@ -1,3 +1,7 @@
+[submodule "3pp/glbinding"]
+	path = 3pp/glbinding
+	url = https://github.com/cginternals/glbinding.git
+	tags = v3.1.0
 [submodule "3pp/glfw"]
 	path = 3pp/glfw
 	url = https://github.com/glfw/glfw.git
@@ -6,7 +10,3 @@
 	path = 3pp/imgui
 	url = https://github.com/ocornut/imgui.git
 	tags = v1.78
-[submodule "3pp/glbinding"]
-	path = 3pp/glbinding
-	url = https://github.com/cginternals/glbinding.git
-	tags = v3.1.0
