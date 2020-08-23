@@ -1,6 +1,6 @@
 [submodule "3pp/glbinding"]
 	path = 3pp/glbinding
-	url = https://github.com/cginternals/glbinding.git
+	url = https://github.com/cginternals/glbinding
 	tags = v3.1.0
 [submodule "3pp/glfw"]
 	path = 3pp/glfw
