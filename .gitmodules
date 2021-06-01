@@ -5,8 +5,8 @@
 [submodule "3pp/glfw"]
 	path = 3pp/glfw
 	url = https://github.com/glfw/glfw.git
-	tags = 3.3.2
+	tags = 3.3.4
 [submodule "3pp/imgui"]
 	path = 3pp/imgui
 	url = https://github.com/ocornut/imgui.git
-	tags = v1.78
+	tags = v1.83
