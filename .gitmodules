@@ -1,12 +1,20 @@
-[submodule "3pp/glbinding"]
-	path = 3pp/glbinding
+[submodule "extern/glbinding"]
+	path = extern/glbinding
 	url = https://github.com/cginternals/glbinding
 	tags = v3.1.0
-[submodule "3pp/glfw"]
-	path = 3pp/glfw
-	url = https://github.com/glfw/glfw.git
-	tags = 3.3.4
-[submodule "3pp/imgui"]
-	path = 3pp/imgui
-	url = https://github.com/ocornut/imgui.git
-	tags = v1.83
+[submodule "extern/glfw"]
+	path = extern/glfw
+	url = https://github.com/glfw/glfw
+	tags = 3.3.8
+[submodule "extern/imgui"]
+	path = extern/imgui
+	url = https://github.com/ocornut/imgui
+	branch = docking
+[submodule "extern/fmt"]
+	path = extern/fmt
+	url = https://github.com/fmtlib/fmt
+	tags=9.0.0
+[submodule "extern/asio"]
+	path = extern/asio
+	url = https://github.com/chriskohlhoff/asio
+	tags=asio-1-23-0
