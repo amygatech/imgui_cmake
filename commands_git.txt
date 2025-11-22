@@ -11,6 +11,10 @@ git submodule add https://github.com/fmtlib/fmt extern/fmt
 
 git submodule add https://github.com/chriskohlhoff/asio extern/asio
 
+git submodule add https://github.com/samhocevar/portable-file-dialogs extern/portable-file-dialogs
+git commit -am "Add portable-file-dialogs submodule"
+
+
 * To update specific branch
 ---------------------------
 modify .gitmodules

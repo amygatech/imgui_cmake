@@ -18,3 +18,6 @@
 [submodule "extern/asio"]
 	path = extern/asio
 	url = https://github.com/chriskohlhoff/asio
+[submodule "extern/portable-file-dialogs"]
+	path = extern/portable-file-dialogs
+	url = https://github.com/samhocevar/portable-file-dialogs
