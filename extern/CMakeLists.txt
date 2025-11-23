@@ -15,7 +15,7 @@ add_subdirectory(glbinding EXCLUDE_FROM_ALL)
 # ------ fnt -------
 add_subdirectory(fmt EXCLUDE_FROM_ALL)
 
-add_subdirectory(portable-file-dialogs)
+#add_subdirectory(portable-file-dialogs)
 
 # ------ asio -------
 add_library(asio INTERFACE)

@@ -4,4 +4,6 @@ cmake_policy(SET CMP0074 NEW)
 
 
 add_subdirectory(extern)
-add_subdirectory(src)
+add_subdirectory(test_dock)
+add_subdirectory(test_plain)
+add_subdirectory(src_v2)
