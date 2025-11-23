@@ -21,3 +21,13 @@ modify .gitmodules
 
 and run
 git submodule update --remote
+
+
+* Work flow when update libraries
+----------------------------
+# from repo 
+git submodule update --remote        # pull latest of tracked branches
+git status                           # see which submodules changed
+git add extern/*                     # or list the ones you care about
+git commit -m "Update submodules"
+git push
